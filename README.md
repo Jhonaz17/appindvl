@@ -65,3 +65,18 @@ Una vez aceptada la solicitud, el solicitante realiza el pago y el proveedor eje
 
 **Calificación y Feedback:**
 Tras finalizar el servicio, el solicitante deja una reseña y calificación del proveedor.
+
+![1](https://github.com/user-attachments/assets/f300edfc-64ae-4e0d-a6f0-7b12e8d38198)
+
+![2](https://github.com/user-attachments/assets/f56b86b1-7011-4d1f-b663-ba3dcee0df6b)
+
+![3](https://github.com/user-attachments/assets/e52f63d9-0d54-4671-af9b-7432f2dc1094)
+
+![4](https://github.com/user-attachments/assets/a53aac0e-f3b2-47a6-84e2-2aa2de5c13ad)
+
+![5](https://github.com/user-attachments/assets/562aa722-c4b3-4ac4-b007-3eb6ba22e722)
+
+![6](https://github.com/user-attachments/assets/094baf15-daec-4ced-8bac-cbb947d8a7ff)
+
+![7](https://github.com/user-attachments/assets/374ccf2a-8cf8-40c6-bef6-1191264ffe57)
+

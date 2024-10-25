@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TotalAssist</string>
+
+
+    <string name="BtnManagerService">Manager Services</string>
+    <string name="BtnViewRequest">View Request</string>
+    <string name="msgServiceNotFound">Service not found</string>
+    <string name="msgRequestNotFound">Request not found</string>
+</resources>

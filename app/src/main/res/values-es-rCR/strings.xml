@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TotalAssist</string>
+    <string name="BtnManagerService">Administrador de Servicios</string>
+    <string name="BtnViewRequest">Visualizar Solicitudes</string>
+    <string name="msgServiceNotFound">Servicio no encontrado</string>
+    <string name="msgRequestNotFound">Solicitud no encontrada</string>
+</resources>
